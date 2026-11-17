@@ -1,6 +1,5 @@
 ### Hi there 👋
-Currently learning **cloud basics** using *MS Azure*
-IT PM working on technical skills, targeting AZ-104
+IT PM working on **cloud skills**, targeting AZ-104
 <!--
 **gerghu/gerghu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
